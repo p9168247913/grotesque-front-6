@@ -1,0 +1,13 @@
+.container{
+    border:1px solid rgb(183, 183, 233);
+    height:220px;
+    margin-top:2%;
+    background-color: #f3efef;
+    box-shadow:10px 20px 10px grey;
+    margin-bottom:5%;
+}
+
+.panel-heading{
+    font-size:25px;
+    font-weight:bold;
+}

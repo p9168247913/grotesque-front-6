@@ -1,0 +1,53 @@
+.copyright{
+    margin-bottom: 3%;
+}
+.socials{
+    margin-left: 5%;
+    margin-bottom: 2%;
+    float: left;
+    height: ;
+    width: 30%;
+}
+
+.socials1{
+    height: 35px;
+    width: 35px;
+    margin-left: 2%;
+}
+.featuredFooter{
+    margin-left: 1%;
+    margin-bottom: 2%;
+    float: left;
+    height: ;
+    width: 30%;
+}
+.featuredFooter > a{
+    text-decoration: none;
+    color: #000 !important;
+    font-size: 20px;
+    margin-left: 5%;
+    display: block;
+}
+.partner{
+    margin-bottom: 2%;
+    margin-left: 5%;
+    display: block;
+}
+.partner > img{
+    height: 30px; 
+    width: 45px; 
+    margin-left: 1%;
+    display: inline-block;
+}
+.services{
+    margin-left: 1%;
+    margin-bottom:2%;
+    height: 75%;
+    width: ;
+}
+.services > a {
+    text-decoration: none;
+    color: #000 !important;
+    font-size: 20px;
+    margin-left: 1.5%;
+}
