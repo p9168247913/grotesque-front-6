@@ -1,0 +1,69 @@
+.safetymeasures{
+    height: 150px;
+    width: 100%;
+    display: inline-block;
+    margin-top: 4%;
+}
+.safety1 > img{
+    float: left;
+    height: 129px;
+    width: 25%;
+    margin-left: 2%;
+}
+.safety > img{
+    float: left;
+    height: 120px;
+    width: 12%;
+    margin-left: 2%;
+}
+.deals{
+    height:460px;
+    width: 100%;
+    display: inline-block; 
+    background-color: #f8e3e3;
+    margin-top: 3%;
+}
+.dealarea > h4 {
+    float: left;
+    margin-left:3%;
+    margin-top: 3%;
+}
+.dealarea{
+    height: 100px;
+    width: 100%;
+    background-color: #f8e3e3;
+}
+.dealarea > img{
+    height: 100%;
+    width: 140px;
+    margin-left: 3%;
+    float: left;
+}  
+
+.row{
+    margin-top: 1%;
+}
+.card1{
+    height: 330px;
+}
+.card1 > img{
+    height: 180px;
+    border: 2px solid grey;
+    
+}
+
+.card-body{
+    background: rgb(250, 242, 242);
+}
+.offerimg{
+    width: 40%;
+    font-weight: bold;
+    color: #fff;
+}
+.cardborder{
+    border: 1px dotted grey;
+}
+#demo{
+    color: #da4e50;
+    font-size: 30px;
+}
