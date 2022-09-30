@@ -1,0 +1,80 @@
+.mydark{
+    background-color: rgb(43, 42, 42) !important;
+}
+body{
+    margin: auto;
+    background-color: #cae9e0 !important;
+    overflow-x: hidden;
+    margin-right:auto;
+}
+.mydark{
+    background-color: rgb(43, 42, 42) !important;
+}
+
+a{
+    text-decoration: none;
+}
+.form-horizontal{
+    background-color: #0eb184;
+    width: 100%;
+    height: 90px;
+}
+
+.navbar-brand {
+    color: #fff;
+    float: left;
+    font-size: 32px;
+    font-weight: bolder !important;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+.example{
+    float: left;
+    margin-top: 1%;
+    width: 34%;
+}
+
+
+form.example input[type=text] {
+    padding: 10px;
+    font-size: 17px;
+    border: 3px solid #bdadad;
+    float: left;
+    width: 80%;
+    background: #f1f1f1;
+    height: 48px;
+}
+  
+
+form.example button {
+    float: left;
+    width: 20%;
+    padding: 10px;
+    background-color: #2196F3;
+    color: white;
+    font-size: 17px;
+    border: 1px solid grey;
+    border-left: none; 
+    cursor: pointer;
+    width: 10%;
+    height: 48px;
+}
+  
+form.example button:hover {
+    background: #0b7dda;
+}
+  
+
+
+form.example button:hover {
+    background: rgb(167, 164, 164);
+}
+.btn {
+    float:right;
+    margin-right:1%;
+    margin-top:2%;
+}
+.btn-primary{
+    margin-right:1%;
+}
